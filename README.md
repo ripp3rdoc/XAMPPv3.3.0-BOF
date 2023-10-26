@@ -4,7 +4,7 @@ Exploit Proof-of-Concept code for XAMPP v3.3.0 — '.ini' Buffer Overflow (Unico
 ## Steps to Reproduce:
 1. Run the python script "poc.py", it will create a new file "xampp-control.ini"
 2. Open the application (xampp-control.exe)
-3. Click on the "admin" button in front of Apache service.
+3. Click on the "admin" button in front of any service (e.g Apache, MySQL).
 4. Profit
 
 ## POC Video
