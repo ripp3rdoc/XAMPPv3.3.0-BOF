@@ -8,4 +8,4 @@ Exploit Proof-of-Concept code for XAMPP v3.3.0 — '.ini' Buffer Overflow (Unico
 4. Profit
 
 ## POC Video
-![POC gif Video](../xamppv3.3.0_BOF-POC.gif)
+![POC gif Video](https://github.com/ripp3rdoc/XAMPPv3.3.0-BOF/blob/main/xamppv3.3.0_BOF-POC.gif?raw=true)
