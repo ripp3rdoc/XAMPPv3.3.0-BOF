@@ -1,5 +1,5 @@
 # XAMPPv3.3.0-BOF
-Exploit Proof-of-Concept code for XAMPP v3.3.0 — '.ini' Buffer Overflow (Unicode + SEH)
+Proof-of-Concept exploit code for XAMPP v3.3.0 — '.ini' Buffer Overflow (Unicode + SEH)
 
 ## Steps to Reproduce:
 1. Run the python script "poc.py", it will create a new file "xampp-control.ini"
